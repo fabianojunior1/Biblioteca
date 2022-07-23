@@ -32,11 +32,3 @@
   <td>AXIOS</td>
  </tr>
 </table>
-<br>
-<hr>
-
-### :technologist: Autor
-<a href="https://github.com/fabianojunior1">
- <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/100708547?v=4" width="100px;" alt=""/>
- <br />
- <p><b>Fabiano Duarte Gomes Júnior</b></sub></a> <a href="https://github.com/fabianojunior1" title="GitHub"></a></p>
