@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 # Biblioteca de livros
 <p align="center">App para controle de livros com ações para cadasro, edição e exclusão de livros</p>
 <p align="center">
@@ -44,4 +42,3 @@
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/11821851?v=4" width="100px;" alt=""/>
  <br />
  <p><b>Wellington Lima dos Santos</b></sub></a> <a href="https://github.com/wellington-lima" title="GitHub"></a></p>
->>>>>>> cad2e52d67f4d2375878b9ea20d0808a9bf6ea28
