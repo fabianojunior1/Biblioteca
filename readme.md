@@ -1,5 +1,8 @@
-<h1 align="center">Biblioteca de livros</h1>
-<p align="center">App para controle de livros com ações para cadastro, edição e exclusão de livros</p>
+<div align="center">
+  <h1>Biblioteca de livros</h1>
+  <p>App para controle de livros com ações para cadastro, edição e exclusão de livros</p>
+</div>
+
 <div align="center">
   <table>
     <tr>
