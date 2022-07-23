@@ -1,13 +1,12 @@
-# Biblioteca de livros
+<h1 align="center">Biblioteca de livros</h1>
 <p align="center">App para controle de livros com ações para cadasro, edição e exclusão de livros</p>
 <p align="center">
 <div align="center">
  <table>
- <tr>
-  <td><img src="https://github.com/fabianojunior1/Projeto_Biblioteca/blob/main/frontend/src/assets/gif/Apresenta%C3%A7%C3%A3o.gif" width="100%" /></td>
+  <tr>
+   <td><img src="https://github.com/fabianojunior1/Projeto_Biblioteca/blob/main/frontend/src/assets/gif/Apresenta%C3%A7%C3%A3o.gif" width="100%" /></td>
  </tr>
 </table>
-
 </div>
 </p>
 <hr>
