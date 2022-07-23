@@ -4,9 +4,7 @@
 <div align="center">
  <table>
  <tr>
-  <td><img src="https://github.com/wellington-lima/biblioteca/blob/fc4536ef5d9ca5a988bdc10ad9f199cedc255a37/frontend/src/img/index.png" width="400px" /></td>
-  <td><img src="https://github.com/wellington-lima/biblioteca/blob/fc4536ef5d9ca5a988bdc10ad9f199cedc255a37/frontend/src/img/save.png" width="400" /></td>
-  <td><img src="https://github.com/wellington-lima/biblioteca/blob/fc4536ef5d9ca5a988bdc10ad9f199cedc255a37/frontend/src/img/update.png" width="400" /></td>
+  <td><img src="https://github.com/fabianojunior1/Projeto_Biblioteca/blob/main/frontend/src/assets/gif/Apresenta%C3%A7%C3%A3o.gif" width="100%" /></td>
  </tr>
 </table>
 
@@ -38,7 +36,7 @@
 <hr>
 
 ### :technologist: Autor
-<a href="https://github.com/wellington-lima">
- <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/11821851?v=4" width="100px;" alt=""/>
+<a href="https://github.com/fabianojunior1">
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/100708547?v=4" width="100px;" alt=""/>
  <br />
- <p><b>Wellington Lima dos Santos</b></sub></a> <a href="https://github.com/wellington-lima" title="GitHub"></a></p>
+ <p><b>Fabiano Duarte Gomes Júnior</b></sub></a> <a href="https://github.com/fabianojunior1" title="GitHub"></a></p>
