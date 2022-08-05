@@ -21,3 +21,33 @@
   <img alt="Fabiano-PostreSQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
   <img alt="Fabiano-NODE" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
 </div> 
+
+## ⚙ Como rodar a aplicação? 
+
+### 1° Passo - Criação do banco de dados
+Basta acessar o arquivo que está na pasta abaixo e criar a tabela utilizando o banco de dados <strong>PostgreSQL</strong>
+
+> backend/table_livros_script.db
+<br>
+
+### 2° Passo - Rodar a API
+Existem várias formas de rodar a API, uma delas é utilizar 2 terminais do vscode dentro do mesmo projeto: um para rodar o back-end, e outro para rodar o front-end. Caso não saiba como utilizar vários terminais simultaneamente, basta clicar <a href="https://www.alura.com.br/artigos/como-utilizar-terminal-integrado-visual-studio-code#:~:text=Pela%20interface%20gr%C3%A1fica%3A,depois%20selecione%20o%20terminal%20desejado.">aqui</a>.
+
+Abra o projeto na pasta Biblioteca, depois entre na pasta backend e digite o comando que faz a API iniciar, como no exemplo:
+```ts
+cd backend    
+npm run dev   
+```
+<br>
+
+### 3° Passo - Inicializar o Front-end
+Com a API rodando, abra outro terminal, depois basta entrar na pasta frontend e rodar o comando que faz o frontend inicializar, como no exemplo: 
+```ts
+cd frontend   
+npm run dev   
+```
+
+
+
+
+
